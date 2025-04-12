@@ -3,20 +3,20 @@
 1. Task Manager: Is a based console application made with Kotlin. 
 The app shows a menu with the following features.
 
-a) Add a Task: The user is able to add a title and a description. The task is added in a list as incomplete.
-
-b) Delete a Task: The user is able to select a task to delete.
-
-c) Change the status of the task: The user is able to complete a selected task.
-
-d) Show a list of tasks: The user is able to see a List of detailed tasks created.
+    a) Add a Task: The user is able to add a title and a description. The task is added in a list as incomplete.
+    
+    b) Delete a Task: The user is able to select a task to delete.
+    
+    c) Change the status of the task: The user is able to complete a selected task.
+    
+    d) Show a list of tasks: The user is able to see a List of detailed tasks created.
 
 2. Structure of the app. The app uses a structure similar to MVC model.
 
 3. Mock Database: This app works with mock data for demo purposes. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3oHAoBI3DwA)
 
 # Development Environment
 
